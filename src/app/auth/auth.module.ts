@@ -18,8 +18,6 @@ import { AuthComponent } from './auth.component';
      SharedModule
 ]
 })
-    
-
-export class AuthModule{
+  export class AuthModule{
     
 }
